@@ -1,7 +1,7 @@
 # CssProjects
 
 
--Testimonial
+- Testimonial
 
 <img src="https://github.com/sercaniyili/CssProjects/blob/main/TestimonialsCase/images/testimonial.png" />
 
